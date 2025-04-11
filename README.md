@@ -37,8 +37,8 @@ Place **all necessary files in the same folder**:
 
 ```
 /your_project_folder
-  ├── update_row_tool.py      # Main Python script
-  ├── cell-database-456510-a79db50a2ddd.json   # Service account JSON file (required)
+  ├── sheetTool.py      # Main Python script
+  ├── cell-database-453520-t59dsd50l24dd.json   # Service account JSON file (required)
   └── CPPFSAEE.ico            # Optional custom window icon
 ```
 
